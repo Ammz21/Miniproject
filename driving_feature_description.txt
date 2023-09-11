@@ -1,0 +1,119 @@
+1 Fuel consumption The instant value related to fuel consumption
+2 Accelerator Pedal value This sensor registers the movement of the accelerator 
+pedal: Accelerator pedal opening angle percentage as 
+determined by the accelerator position sensor. 
+3 Throttle position signal The relative throttle position sensor is used to mon- 
+itor the throttle position of a vehicle 
+4 Short Term Fuel Trim Bank1 Fuel trims are the percentage of change in fuel over 
+time in short term 
+5 Intake air pressure This data is used to calculate air density and deter- 
+mine the engine’s air mass ﬂow rate 
+6 Filtered Accelerator Pedal value ECU’s ﬁltered accelerator pedal opening angle per- 
+centage as determined by the accelerator position 
+sensor. 
+7 Absolute throttle position Actual position of the throttle 
+8 Engine soacking time Duration of time a vehicle’s engine is at rest prior to 
+being started. 
+9 Inhibition of engine fuel cut oﬀ The fuel cut-oﬀ control system is responsive to a 
+brake switch signal and an engine speed signal having 
+a value above a fuel recovery threshold to decrease 
+the value of a fuel cut-oﬀ threshold to again per- 
+form the fuel cut-oﬀ even in the normal fuel recovery 
+range. This value represents the inhibition of engine 
+fuel cut oﬀ 
+10 Engine in fuel cut oﬀ This value represents the inhibition of engine fuel cut 
+oﬀ, i.e., fuel cut-oﬀ threshold. 
+11 Fuel Pressure Eﬀective pressure is the actual applied pressure for 
+the injector, and is the pressure diﬀerential across 
+the injector. 
+12 Long Term Fuel Trim Bank1 Fuel trims are the percentage of change in fuel over 
+time in long term. 
+13 Engine speed It is also called engine’s RPM, i.e., Revolutions Per 
+Minute. In other words it is the number of revolu- 
+tions the crankshaft makes per minute. 
+14 Engine torque after correction The value after correcting the torque to which an 
+engine is adjusted before a gear disengagement. 
+15 Torque of friction Friction torque is the torque caused by the frictional 
+force that occurs when two objects in contact move. 
+16 Flywheel torque interventions The ﬂywheel stores energy when torque is applied 
+by the energy source, and it releases stored energy 
+when the energy source is not applying torque to it. 
+The value represent the ﬂywheel torque after torque 
+interventions. 
+17 Current spark timing The time to set the angle relative to piston position 
+and crankshaft angular velocity that a spark will oc- 
+cur in the combustion chamber near the end of the 
+compression stroke. 
+18 Engine coolant temperature The temperature of the engine coolant of the internal 
+combustion engine 
+19 Engine Idle Target Speed The desired idle RPM in relation to coolant temp. 
+20 Engine torque Engine torque is also related to the gearing. The 
+lower the gear, greater is the pulling ability of an 
+engine and hence greater the torque that this value 
+represents. 
+21 Calculated LOAD value This value indicates a percentage of peak available 
+torque. 
+22 Min indicated engine torque Minimum Engine torque value 
+23 Max indicated engine torque Maximum Engine torque value 
+24 Flywheel torque The value represent the ﬂywheel torque 
+25 Torque scaling factor This value is described as how ﬂexible or how much 
+force can be expressed in a given gear when the driver 
+scales the gear. 
+26 Standard Torque Ratio This value is described as how ﬂexible or how much 
+force can be expressed in a given gear. 
+27 Requested spark retard angle The transmission control unit (TCU) controls mod- 
+ern electronic automatic transmissions. This value 
+computes the requested spark retard angle from 
+TCU. 
+28 Requests engine torque limit This parameter monitors the request to engine 
+torque limits (ETL) by TCU 
+29 Requested engine RPM increase This parameter monitors the TCU requests related 
+to the RPM engine increasing 
+30 Target engine speed used 
+in lock-up module 
+It monitors the lock-up valve, used to shut oﬀ the 
+signal pressure line of pneumatic actuators. 
+31 Glow plug control request It monitors the request to check the glow plug 
+32 Activation of Air compressor The value of the air compressor’s working. 
+33 Torque converter speed A particular kind of ﬂuid coupling that is used to 
+transfer rotating power from a prime mover 
+34 Current Gear The engaged gear 
+35 Transmission oil temperature The value of the temperature of the ﬂuid inside the 
+transmission. 
+36 Wheel velocity front left- 
+hand 
+The speed of the front left hand wheel 
+37 Wheel velocity rear right- 
+hand 
+The speed of the rear right hand wheel 
+38 Wheel velocity front right- 
+hand 
+The speed of the front right hand wheel 
+39 Wheel velocity rear left-hand The speed of the rear left hand wheel 
+40 Torque converter turbine speed - 
+Unﬁltered 
+A torque converter is a type of ﬂuid coupling that is 
+used to transfer rotating power from a prime mover, 
+such as an internal turbines in this case. 
+41 Clutch operation acknowledge It is responsible to signalize when a clutch operation 
+happens. 
+42 Converter clutch It is responsible for activating the torque converter 
+clutch to prevent slipping at highway speeds 
+43 Gear Selection It represents the gear selected by the sensor 
+44 Vehicle speed It represents the current speed of the vehicle 
+45 Acceleration speed - 
+Longitudinal 
+It represents the value related to the acceleration 
+speed longitudinal 
+46 Indication of brake 
+switch ON/OFF 
+It indicates whether the brake indication is on or oﬀ 
+47 Master cylinder pressure The pressure of the master cylinder, a control device 
+that converts non-hydraulic pressure into hydraulic 
+one. 
+48 Calculated road gradient This value computes the slope of the currently trav- 
+eled road 
+49 Acceleration speed - Lateral It consists in the acceleration value that a curving 
+car manifest 
+50 Steering wheel speed This value represents the wheel speed when steering 
+51 Steering wheel angle This value represents the wheel angle when steering 
